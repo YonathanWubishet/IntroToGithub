@@ -1,5 +1,5 @@
 # Contact Info
 
-- Carlo Santos
-  - Email: snapitcarlo@gmail.com
-  - github: carlosantos11 
+- Yonathan Wubishet
+  - Email: zectek@gmail.com
+  - github: YonathanWubishet
