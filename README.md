@@ -1,7 +1,7 @@
 # Intro To Github
 
 Welcome to class. First things first, let's get to know our tools.
-Within the development industry when we build something, we usually build in 
+Within the development industry, when we build something, we usually build in 
 large teams. Powerful programs require many people working on the
 project together as a team. A problem that arises when multiple people are working on the same
 code in the same project, is that we may change code that affects another contributors code.
@@ -11,7 +11,7 @@ In comes version control. Git is an example of a version control system. Version
 simply that. Version control systems (VCS's) track and manage the version/state of the source code. 
 So we can rewind the history of our code and fastforward to our most recent contribution.
 
-We will also learn a little markdown and a little ruby in the process
+We will also learn a markdown and ruby in the process.
 
 No better way to learn than to get started. Clone this repo and follow along. 
 
